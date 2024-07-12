@@ -66,10 +66,11 @@ Establish the front-end and back-end using JAVA and connect to the database usin
 Integrate the front-end JSP pages with the back-end Flask to enable real-time photo capturing.
 After taking a photo, send it to the back-end Python code for makeup application via HTTP request protocol and return the result.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Usage
-Import the AI-Makeup.war project into Eclipse and run it using the Tomcat 9.0 server.
-Open photo.py in VSCode and execute it. photo.py will sequentially import from Ori_cutface.py to putcolor_onface.py.
-In photo.py, create socket.io to complete real-time camera and photo capture functions. Connect using fetch in photo.jsp to establish HTTP requests (app.route in photo.py), enabling dynamic data loading and responsive web functionality.
+
+## Usage
+1. Import the AI-Makeup.war project into Eclipse and run it using the Tomcat 9.0 server.
+2. Open photo.py in VSCode and execute it. photo.py will sequentially import from Ori_cutface.py to putcolor_onface.py.
+3. In photo.py, create socket.io to complete real-time camera and photo capture functions. Connect using fetch in photo.jsp to establish HTTP requests (app.route in photo.py), enabling dynamic data loading and responsive web functionality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
