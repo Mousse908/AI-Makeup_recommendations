@@ -5,6 +5,7 @@
   <li><a href="#about-the-project">About The Project</a></li>
   <li><a href="#built-with">Built With</a></li>
   <li><a href="#getting-started">Getting Started</a></li>
+  <li><a href="#Simple-Workflow-Description">Simple Workflow Description</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#references">References</a></li>
@@ -62,9 +63,10 @@ To get a local copy up and running, follow these simple steps.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Simple Workflow Description
-Establish the front-end and back-end using JAVA and connect to the database using the MVC architecture. Implement features like member login/logout, create members, and display member information.
-Integrate the front-end JSP pages with the back-end Flask to enable real-time photo capturing.
-After taking a photo, send it to the back-end Python code for makeup application via HTTP request protocol and return the result.
+1. Establish the front-end and back-end using JAVA and connect to the database using the MVC architecture. Implement features like member login/logout, create members, and display member information.
+2. Integrate the front-end JSP pages with the back-end Flask to enable real-time photo capturing.
+3. After taking a photo, send it to the back-end Python code for makeup application via HTTP request protocol and return the result.
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Usage
