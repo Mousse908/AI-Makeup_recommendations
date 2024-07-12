@@ -1,0 +1,10 @@
+python
+tensorflow
+pandas
+numpy 
+matplotlib
+seaborn
+opencv-python
+flask
+mediapipe
+pymatting
